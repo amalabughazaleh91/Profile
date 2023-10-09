@@ -13,6 +13,7 @@
 		2983995C2AD2A1F50084412D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2983995B2AD2A1F50084412D /* Preview Assets.xcassets */; };
 		5284D16E2AD3E58B006DA9BF /* farah.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5284D16D2AD3E58B006DA9BF /* farah.swift */; };
 		A51AC7992AD3E11300483275 /* Razan.swift in Sources */ = {isa = PBXBuildFile; fileRef = A51AC7982AD3E11300483275 /* Razan.swift */; };
+		A6BC14512AD3E8E80028DE16 /* Elham.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6BC14502AD3E8E80028DE16 /* Elham.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		2983995B2AD2A1F50084412D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5284D16D2AD3E58B006DA9BF /* farah.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = farah.swift; path = ../farah.swift; sourceTree = "<group>"; };
 		A51AC7982AD3E11300483275 /* Razan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Razan.swift; sourceTree = "<group>"; };
+		A6BC14502AD3E8E80028DE16 /* Elham.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Elham.swift; path = ../Elham.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				2983995A2AD2A1F50084412D /* Preview Content */,
 				A51AC7982AD3E11300483275 /* Razan.swift */,
 				5284D16D2AD3E58B006DA9BF /* farah.swift */,
+				A6BC14502AD3E8E80028DE16 /* Elham.swift */,
 			);
 			path = Profile;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A6BC14512AD3E8E80028DE16 /* Elham.swift in Sources */,
 				5284D16E2AD3E58B006DA9BF /* farah.swift in Sources */,
 				298399572AD2A1F30084412D /* ContentView.swift in Sources */,
 				A51AC7992AD3E11300483275 /* Razan.swift in Sources */,
